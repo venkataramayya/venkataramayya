@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**venkataramayya/venkataramayya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, I'm Venkataramaiah!
 
-Here are some ideas to get you started:
+I'm a passionate Full-Stack Developer with a strong background in **Computer Science and Engineering**. I have hands-on experience with web development, backend technologies, and project management. My expertise spans across **Python**, **MySQL**, **Django**, **HTML**, **CSS**, **JavaScript**, and **Salesforce**. I enjoy working on innovative solutions, and I'm always looking for ways to enhance my skills and contribute to exciting projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools:
+- **Frontend**: HTML5, CSS3, JavaScript, Bootstrap
+- **Backend**: Python, Django, MySQL, RESTful APIs
+- **Tools**: Git, GitHub, Visual Studio Code
+- **Others**: Salesforce, Linux, Docker
+
+## 💻 Projects:
+- **Visa Examination App**: Developed an app for visa examination with roles for admin and user tasks.
+- **Liver Tumor Detection & Classification**: Leading a team of four members for a project involving tumor detection using AI, serving as the backend developer.
+- **Web Development Projects**: Worked on several personal and client projects to create responsive websites with Python and Django.
+
+## 📚 Certifications:
+- **Python & Web Development** - Coursera
+- **Salesforce Developer Certification**
+
+## 🎯 My Goals:
+I'm working towards becoming a top professional in the software industry. I thrive in a collaborative environment and aim to constantly learn and grow.
+
+## 📫 How to Reach Me:
+- **Email**: avr270903@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/avr2003/
+- **GitHub**: gitub.com/venkataramayya
+
+
+
