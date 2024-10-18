@@ -10,13 +10,16 @@ I'm a passionate Full-Stack Developer with a strong background in **Computer Sci
 - **Others**: Salesforce, Linux, Docker
 
 ## 💻 Projects:
-- **Visa Examination App**: Developed an app for visa examination with roles for admin and user tasks.
 - **Liver Tumor Detection & Classification**: Leading a team of four members for a project involving tumor detection using AI, serving as the backend developer.
 - **Web Development Projects**: Worked on several personal and client projects to create responsive websites with Python and Django.
 
 ## 📚 Certifications:
 - **Python & Web Development** - Coursera
 - **Salesforce Developer Certification**
+- **java full stack developer**-wipro
+- **python full stack developer**-Kodnest
+- 
+
 
 ## 🎯 My Goals:
 I'm working towards becoming a top professional in the software industry. I thrive in a collaborative environment and aim to constantly learn and grow.
@@ -24,7 +27,7 @@ I'm working towards becoming a top professional in the software industry. I thri
 ## 📫 How to Reach Me:
 - **Email**: avr270903@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/avr2003/
-- **GitHub**: gitub.com/venkataramayya
+- **GitHub**: https://github.com/venkataramayya
 
 
 
