@@ -18,7 +18,6 @@ I'm a passionate Full-Stack Developer with a strong background in **Computer Sci
 - **Salesforce Developer Certification**
 - **java full stack developer**-wipro
 - **python full stack developer**-Kodnest
-- 
 
 
 ## 🎯 My Goals:
