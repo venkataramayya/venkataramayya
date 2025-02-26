@@ -1,11 +1,12 @@
 
 # 👋 Hello, I'm Venkataramaiah!
 
-I'm a passionate Full-Stack Developer with a strong background in **Computer Science and Engineering**. I have hands-on experience with web development, backend technologies, and project management. My expertise spans across **Python**, **MySQL**, **Django**, **HTML**, **CSS**, **JavaScript**, and **Salesforce**. I enjoy working on innovative solutions, and I'm always looking for ways to enhance my skills and contribute to exciting projects.
+I'm a passionate Full-Stack Developer with a strong background in **Computer Science and Engineering**. I have hands-on experience with web development, backend technologies, and project management. My expertise spans across **Java**, **MySQL**, **Angular**, **HTML**, **CSS**, **JavaScript**,**Bootstrap**,**Typescript** and **Salesforce**. I enjoy working on innovative solutions, and I'm always looking for ways to enhance my skills and contribute to exciting projects.
 
 ## 🔧 Technologies & Tools:
 - **Frontend**: HTML5, CSS3, JavaScript, Bootstrap
-- **Backend**: Python, Django, MySQL, RESTful APIs
+- **Backend**: Java,SprinBoot
+- **DataBase**:MYSQL
 - **Tools**: Git, GitHub, Visual Studio Code
 - **Others**: Salesforce, Linux, Docker
 
